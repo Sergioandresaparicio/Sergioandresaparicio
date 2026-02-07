@@ -57,7 +57,7 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sergioandresaparicio&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/sergioandresaparicio/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergioandresaparicio&label=Profile%20views&color=0e75b6&style=flat" alt="sergioandresaparicio" /> </p>
