@@ -42,14 +42,6 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 
 💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨<br>Portafolio en desarrollo 📁 | Proyectos en GitHub 🐙 | Siempre aprendiendo 🧠
 
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=sergioandresaparicio&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
  
  ### 💳 Github Profile Summary Card
  
@@ -58,12 +50,6 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioandresaparicio&theme=github_dark)
   
  </div>
-
-
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergioandresaparicio&label=Profile%20views&color=0e75b6&style=flat" alt="sergioandresaparicio" /> </p>
 
