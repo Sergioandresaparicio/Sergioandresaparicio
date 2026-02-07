@@ -43,5 +43,5 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sergioandresaparicio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-### 🤝🏻 &nbsp;Connect with Me
-
+🤝🏻 &nbsp;Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://co.linkedin.com/in/sergio-andr%C3%A9s-aparicio-galvis-62b6b8213)
