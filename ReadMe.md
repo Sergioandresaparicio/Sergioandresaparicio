@@ -1,24 +1,46 @@
-# 💫 About Me:
-👨‍💻 Estudiante de Técnico en Desarrollo de Software | Apasionado por la programación y la biología 🐞<br>🌱 Aprendiendo Python y construyendo proyectos que integran tecnología con el sector ambiental<br>⚡ En constante evolución: cada línea de código es un nuevo reto superado
+# 👋 ¡Hola, soy Sergio Aparicio!
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergioandresapariciogalvis@outlook.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sergioandresaparicio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sergioandresaparicio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergioandresaparicio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sergioandresaparicio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sergioandresaparicio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌱 Mi perfil híbrido
+
+Soy un científico con alma de desarrollador. Mi formación en biología me dio **pensamiento analítico**, **paciencia para resolver problemas complejos** y una mirada única hacia los sistemas naturales 🌿. Hoy aplico esa misma curiosidad a la programación para construir soluciones tecnológicas con propósito.
+
+---
+
+👋 ¡Hola, soy Sergio Aparicio!
+
+🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software
+
+---
+
+## 🌱 Mi perfil híbrido
+
+Soy un científico con alma de desarrollador. Mi formación en biología me dio **pensamiento analítico**, **paciencia para resolver problemas complejos** y una mirada única hacia los sistemas naturales 🌿. Hoy aplico esa misma curiosidad a la programación para construir soluciones tecnológicas con propósito.
+
+---🎯 Mi Trayectoria<br>🔬 Experiencia en Biología:<br>Especialización en entomología (estudio de insectos) 🦗<br>Conocimientos integrados en biología, derecho y sector ambiental 🌱⚖️<br>Enfoque científico y analítico para resolver problemas complejos 🔍<br>💻 Formación en Programación:<br>✅ Python: Dominio de conceptos esenciales 🐍<br> <progress value="20" max="100">
+
+🚀 En Aprendizaje Activo:<br>Scrum y Metodologías Ágiles 🏃‍♂️<br>HTML + CSS 🎨<br>JavaScript ⚡<br>Bases de Datos & MySQL 🗄️<br>Java ☕<br>💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨<br>Portafolio en desarrollo 📁 | Proyectos en GitHub 🐙 | Siempre aprendiendo 🧠
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kcha#4755) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sergio Andres Aparicio Galvis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sergio Andres Aparicio Galvis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio Andrés Aparicio Galvis) [](mailto:sergioandresapariciogalvis@outlook.com)
+
+# 💻 Tech Stack:
+
+# 📊 GitHub Stats:
+
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sergioandresaparicio&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+
+### ✍️ Random Dev Quote
+
+---
+
+[](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
