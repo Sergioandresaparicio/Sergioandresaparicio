@@ -2,6 +2,13 @@
 
 🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sergio+Andrés+Aparicio+Galvis..&hearts;++;🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software,;Estudiante+Tecnico+Desarrollo+De+Software,;Novato+Python,;Lider+Auto aprendizaje,;Amante+Del+Autoaprendizaje+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
 ---
 
 ## 🌱 Mi perfil híbrido
@@ -37,14 +44,12 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 
 ## 🏆 GitHub Trophies
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
 ### ✍️ Random Dev Quote
 
 ---
 
 [](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
