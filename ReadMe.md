@@ -1,7 +1,9 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 <h1 align="center"><b> 👋 ¡Hola, soy Sergio Aparicio! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Transición+al+desarrollo+de+Software;Estudiante+Tecnico+Desarrollo+de+software;Programador+competitivo;Biologo;Especilista+Derecho+Ambiental;Estudiante+de+derecho;Aprendiendo+nuevas+cosas"></a>
