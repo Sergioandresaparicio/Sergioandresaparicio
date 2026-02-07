@@ -46,7 +46,7 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergioandresaparicio-Alhamod&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioandresaparicio-Alhamod&theme=github_dark)
   
  </div>
 
