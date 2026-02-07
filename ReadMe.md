@@ -38,6 +38,15 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 
 💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨<br>Portafolio en desarrollo 📁 | Proyectos en GitHub 🐙 | Siempre aprendiendo 🧠
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sergioandresaparicio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sergioandresaparicio&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kcha#4755) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sergio Andres Aparicio Galvis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sergio Andres Aparicio Galvis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio Andrés Aparicio Galvis) [](mailto:sergioandresapariciogalvis@outlook.com)
