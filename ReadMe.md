@@ -44,4 +44,4 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 </a>
 </p>
 🤝🏻 &nbsp;Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://co.linkedin.com/in/sergio-andr%C3%A9s-aparicio-galvis-62b6b8213)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://co.linkedin.com/in/sergio-andr%C3%A9s-aparicio-galvis-62b6b8213) 
