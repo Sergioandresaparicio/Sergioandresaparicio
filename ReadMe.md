@@ -16,7 +16,7 @@
 
 Soy un científico con alma de desarrollador. Mi formación en biología me dio **pensamiento analítico**, **paciencia para resolver problemas complejos** y una mirada única hacia los sistemas naturales 🌿. Hoy aplico esa misma curiosidad a la programación para construir soluciones tecnológicas con propósito.
 
----🎯 Mi Trayectoria<br>🔬 Experiencia en Biología:<br>Especialización en entomología (estudio de insectos) 🦗<br>Conocimientos integrados en biología, derecho y sector ambiental 🌱⚖️<br>Enfoque científico y analítico para resolver problemas complejos 🔍
+🎯 Mi Trayectoria<br>🔬 Experiencia en Biología:<br>Especialización en entomología (estudio de insectos) 🦗<br>Conocimientos integrados en biología, derecho y sector ambiental 🌱⚖️<br>Enfoque científico y analítico para resolver problemas complejos 🔍
 
 <div id="user-content-toc">
   <ul align="center">
