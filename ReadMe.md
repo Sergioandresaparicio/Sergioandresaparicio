@@ -1,7 +1,10 @@
 <h1 align="center"><b> 👋 ¡Hola, soy Sergio Aparicio! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Sergio+Andrés+Aparicio+Galvis!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sergio+Andrés+Aparicio+Galvis..&hearts;++;🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software,;Estudiante+Tecnico+Desarrollo+De+Software,;Novato+Python,;Lider+Auto aprendizaje,;Amante+Del+Autoaprendizaje+new+stuffs..<3"></a>
 </p>
