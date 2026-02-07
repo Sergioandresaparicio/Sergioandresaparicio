@@ -5,9 +5,7 @@
 
 Soy un científico con alma de desarrollador. Mi formación en biología me dio **pensamiento analítico**, **paciencia para resolver problemas complejos** y una mirada única hacia los sistemas naturales 🌿. Hoy aplico esa misma curiosidad a la programación para construir soluciones tecnológicas con propósito.
 
----🎯 Mi Trayectoria<br>🔬 Experiencia en Biología:<br>Especialización en entomología (estudio de insectos) 🦗<br>Conocimientos integrados en biología, derecho y sector ambiental 🌱⚖️<br>Enfoque científico y analítico para resolver problemas complejos 🔍<br>💻 Formación en Programación:<br>✅ Python: Dominio de conceptos esenciales 🐍<br> <progress value="20" max="100">
-
-🚀 En Aprendizaje Activo:<br>Scrum y Metodologías Ágiles 🏃‍♂️<br>HTML + CSS 🎨<br>JavaScript ⚡<br>Bases de Datos & MySQL 🗄️<br>Java ☕<br>💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨<br>Portafolio en desarrollo 📁 | Proyectos en GitHub 🐙 | Siempre aprendiendo 🧠
+---🎯 Mi Trayectoria<br>🔬 Experiencia en Biología:<br>Especialización en entomología (estudio de insectos) 🦗<br>Conocimientos integrados en biología, derecho y sector ambiental 🌱⚖️<br>Enfoque científico y analítico para resolver problemas complejos 🔍
 
 <div id="user-content-toc">
   <ul align="center">
@@ -21,6 +19,8 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
   </a>
 </p>
 
+
+🚀 En Aprendizaje Activo:<br>Scrum y Metodologías Ágiles 🏃‍♂️<br>HTML + CSS 🎨<br>JavaScript ⚡<br>Bases de Datos & MySQL 🗄️<br>Java ☕<br>💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨<br>Portafolio en desarrollo 📁 | Proyectos en GitHub 🐙 | Siempre aprendiendo 🧠
 
 ## 🌐 Socials:
 
