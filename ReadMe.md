@@ -45,7 +45,7 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 </p>
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kcha#4755) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sergio Andres Aparicio Galvis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sergio Andres Aparicio Galvis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sergio Andrés Aparicio Galvis) [](mailto:sergioandresapariciogalvis@outlook.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kcha#4755) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sergio Andres Aparicio Galvis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sergio Andres Aparicio Galvis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Sergio Andrés Aparicio Galvis](https://www.linkedin.com/in/sergio-andrés-aparicio-galvis-62b6b8213?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [](mailto:sergioandresapariciogalvis@outlook.com)
 
 
 
