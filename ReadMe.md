@@ -42,6 +42,8 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
   </a>
 </p>
 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨
  
  ### 💳 Github Profile Summary Card
