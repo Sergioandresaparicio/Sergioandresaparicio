@@ -19,6 +19,17 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🚀 En Aprendizaje Activo</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,java&perline=14" />
+  </a>
+</p>
 
 🚀 En Aprendizaje Activo:<br>Scrum y Metodologías Ágiles 🏃‍♂️<br>HTML + CSS 🎨<br>JavaScript ⚡<br>Bases de Datos & MySQL 🗄️<br>Java ☕<br>💡 Mi Filosofía<br>Me encanta enfrentar retos 🧗‍♂️ y aprender continuamente 📚. Combino mi visión científica con la lógica de programación para crear soluciones innovadoras 🌟. Mi enfoque es práctico y progresivo, buscando siempre ejemplos claros y aplicaciones reales 🎯<br>🌈 Lo que Ofrezco<br>🧪 Pensamiento analítico de la biología aplicado a la programación<br>🤝 Trabajo colaborativo con visión de equipo<br>📈 Adaptabilidad y ganas de crecer profesionalmente<br>🎓 Aprendizaje continuo con enfoque estructurado<br>🚀 Próximos Pasos<br>Actualmente expandiendo mis habilidades técnicas para convertirme en un desarrollador versátil que pueda aplicar mis conocimientos científicos en proyectos tecnológicos innovadores 🌍<br>¡Conectemos y construyamos algo increíble juntos! 🤝✨<br>Portafolio en desarrollo 📁 | Proyectos en GitHub 🐙 | Siempre aprendiendo 🧠
 
