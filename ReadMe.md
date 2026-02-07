@@ -1,5 +1,5 @@
 <h1 align="center"><b> 👋 ¡Hola, soy Sergio Aparicio! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1 align="center"><b> 🔬 Biólogo especializado en entomología 🦋 | 💻 En transición hacia el desarrollo de software </h1>
+<h1 align="center"><b> 🔬 Biólogo enfocado en entomología, especialista en derecho ambiental y estudiante de derecho 🦋 | 💻 En transición hacia el desarrollo de software </h1>
   
 ## 🌱 Mi perfil híbrido
 
@@ -15,7 +15,7 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,python,vscode,r,bash&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,python,vscode,r,bash,pseint&perline=14" />
   </a>
 </p>
 
