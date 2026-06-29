@@ -26,7 +26,7 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,python,html,javascript,mysql,css,vscode,r,bash,windows,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,git,vercel,discord,github,python,html,javascript,mysql,css,vscode,r,bash,powershell,windows,linux&perline=14" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,obsidian&perline=14" />
   </a>
 </p>
 
