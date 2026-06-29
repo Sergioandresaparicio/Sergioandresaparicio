@@ -20,13 +20,16 @@ Soy un científico con alma de desarrollador. Mi formación en biología me dio 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologia que conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,vercel,discord,github,python,html,javascript,mysql,css,vscode,r,bash,powershell,windows,linux&perline=20" />
+  </a>
+  <a href="https://n8n.io">
+    <img src="./n8n.svg" />
   </a>
 </p>
 
